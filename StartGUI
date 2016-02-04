@@ -1,3 +1,17 @@
-print "welcome to the library."
-print "What would you like to do today?"
-print "1. Check out an item. /n2. Return a book. /n3. Pay a fee. /n4. Attend an event"
+
+def main():
+    print "welcome to the library."
+    print "What would you like to do today?"
+    print "1. Check out an item. /n2. Return a book. /n3. Pay a fee. /n4. Attend an event"
+    userdo = 0
+    while userdo != int:
+        userdo = int (input ('Please input one of the number choices from above. (Just a number ex. "1", "2", "3", "4")'))
+    if userdo = 1:
+        checkout ()
+    elsif userdo = 2:
+        bookreturn ()
+    elsif userdo = 3:
+        payfees ()
+    elsif userdo = 4:
+        eventschedule ()
+
