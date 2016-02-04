@@ -1,3 +1,3 @@
 print "welcome to the library."
 print "What would you like to do today?"
-print "1. Check Out a Book. /n2. Return a Book
+print "1. Check out an item. /n2. Return a book. /n3. Pay a fee. /n4. Attend an event"
