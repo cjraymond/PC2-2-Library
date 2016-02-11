@@ -1,3 +1,14 @@
 class Book:
-    pass
+    def __init__ (self):
+        print ("book")
+        
+    def read (self):
+        print ("read the book")
+        
+    def checkout (self):
+        print ("checkout the book")
+        
+    def return (self):
+        print ("return the book")
+        
     
