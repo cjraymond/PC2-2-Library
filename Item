@@ -1,3 +1,0 @@
-class book:
-    strings = dict(
-        checked-out = "You Have checked out", bookname, "You have seven day to read and then return it."
